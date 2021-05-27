@@ -6,7 +6,8 @@ sections:
     subtitle: >-
       Hello! Do you want to relax but your pooch wont let you be? My business
       will help you with that! My name is Daniel and me and my friend's will be
-      happy to walk your dog for a reanible
+      happy to walk your dog for a reasonable price. Me and my team will help
+      you with taking your furry friend outside for 30-60 minutes!
     actions:
       - label: Contact Me
         url: /contact
