@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Walk n' Bark
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: Hello! Do you want to relax but your pooch wont let you be? My buisness
     actions:
       - label: Contact Me
         url: /contact
