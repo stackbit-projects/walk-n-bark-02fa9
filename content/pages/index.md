@@ -3,7 +3,10 @@ title: Home
 sections:
   - type: hero_section
     title: Walk n' Bark
-    subtitle: Hello! Do you want to relax but your pooch wont let you be? My buisness
+    subtitle: >-
+      Hello! Do you want to relax but your pooch wont let you be? My business
+      will help you with that! My name is Daniel and me and my friend's will be
+      happy to walk your dog for a resanible
     actions:
       - label: Contact Me
         url: /contact
