@@ -58,7 +58,6 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: What we do
-    subtitle: What I do
     features:
       - title: How we do it
         subtitle: How we spend time with your dog
