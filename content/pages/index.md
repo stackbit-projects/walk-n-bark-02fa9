@@ -52,13 +52,7 @@ sections:
       - title: Our prices
         subtitle: What we charge you
         content: "For 15-30 minute walks you pay 5$ and 30-60 minute walks cost 7$. But if this is your first time your first walk is free! Thank you for choosing Walk n' Bark.\U0001F436\n"
-        actions:
-          - label: See Past Work
-            url: /faq
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: /images/rich doggo.jpg
         image_alt: Feature 3 illustration
         media_position: right
