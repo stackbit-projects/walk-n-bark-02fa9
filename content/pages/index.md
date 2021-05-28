@@ -76,13 +76,7 @@ sections:
           it would be nice if you could provide us with poop bags, leash, and
           treats so we can take care of your cute dog. Also please make sure
           that your dog is not aggresive to other people. Thank you!
-        actions:
-          - label: Learn More
-            url: /about
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: /images/happy doggo.jpg
         image_alt: Feature 2 illustration
         media_position: right
