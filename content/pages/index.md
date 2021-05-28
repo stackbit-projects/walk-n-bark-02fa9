@@ -77,7 +77,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Our needs
-        subtitle: 'Product updates, inventory and pricing.'
+        subtitle: What we need for your dog to have a good time!
         content: >
           it would be nice if you could provide us with poop bags, leash, and
           treats so we can take care of your cute dog. Also please make sure
