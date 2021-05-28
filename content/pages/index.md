@@ -78,10 +78,10 @@ sections:
         media_width: sixty
       - title: Our needs
         subtitle: 'Product updates, inventory and pricing.'
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          it would be nice if you could provide us with poop bags, leash, and
+          treats so we can take care of your cute dog. Also please make sure
+          that your dog is not aggresive to other people. Thank you!
         actions:
           - label: Learn More
             url: /about
