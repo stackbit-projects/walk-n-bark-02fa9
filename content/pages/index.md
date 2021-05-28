@@ -25,7 +25,6 @@ sections:
     background_image_size: contain
     background_image_opacity: 30
   - type: grid_section
-    subtitle: Who I work with
     align: center
     grid_items:
       - image_alt: Logo 1
