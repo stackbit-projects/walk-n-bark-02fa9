@@ -65,13 +65,7 @@ sections:
           We will take your canine buddy on 15-30 minute walk or 30-60 minute
           walk (you chose)  so your dog will come back happy from breathing
           fresh air and running around. No job is too big or small!
-        actions:
-          - label: See Writing Samples
-            url: /faq
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: /images/GettyImages-486667830.jpg
         image_alt: Feature 1 illustration
         media_position: right
