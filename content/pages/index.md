@@ -61,7 +61,7 @@ sections:
     subtitle: What I do
     features:
       - title: How we do it
-        subtitle: How we spend time
+        subtitle: How we spend time with your dog
         content: >
           We will take your canine buddy on 15-30 minute walk or 30-60 minute
           walk (you chose)  so your dog will come back happy from breathing
