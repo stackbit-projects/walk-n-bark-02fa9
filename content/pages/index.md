@@ -23,7 +23,7 @@ sections:
     background_image: /images/doggo foot.jpg
     background_image_repeat: repeat
     background_image_size: contain
-    background_image_opacity: 30
+    background_image_opacity: 20
   - type: features_section
     title: What we do
     features:
