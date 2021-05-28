@@ -62,10 +62,10 @@ sections:
     features:
       - title: How we do it
         subtitle: How we spend time
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          We will take your canine buddy on 15-30 minute walk or 30-60 minute
+          walk (you chose)  so your dog will come back happy from breathing
+          fresh air and running around. No job is too big or small!
         actions:
           - label: See Writing Samples
             url: /faq
