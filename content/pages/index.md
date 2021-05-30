@@ -98,7 +98,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-        name: 'Your '
+        name: Your Dog
       - input_type: textarea
         name: message
         label: Message
