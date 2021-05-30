@@ -35,12 +35,6 @@ sections:
           of our initial onboarding is an in-depth understanding of your
           offerings, your target audience and your level of technical writing
           needed.
-      - title: Who handles the design?
-        content: >-
-          You can choose to provide the design yourself, or I can include a
-          design element to your proposal. I work with several wonderful
-          designers with ample experience in web, digital, campaign and
-          marketing design.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
