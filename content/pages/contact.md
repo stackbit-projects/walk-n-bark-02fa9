@@ -9,14 +9,13 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >+
-      ## Schedule Your Dog Walk
+    content: >
+      ## Schedule Your Dog Walk!
 
 
       Put your email, name, and when you want us to walk your doggo! We will get
       to you as soon as possible and if your time doesn't fit in our avalible
       time we will try to reschedule. And also first walk is free!
-
     content_align: left
     form_position: left
     form_width: fifty
