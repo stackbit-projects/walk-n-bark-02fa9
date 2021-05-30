@@ -23,7 +23,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 12
-    background_image: /images/elite-plankton.jpg
+    background_image: /images/Group 3walk_n_bark_logo.png
   - type: features_section
     title: What we do
     features:
