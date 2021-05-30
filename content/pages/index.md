@@ -93,7 +93,6 @@ sections:
         type: form_field
         default_value: Your phone number
       - input_type: text
-        name: lorem-ipsum
         label: Dog's Name
         default_value: lorem-ipsum
         options: []
