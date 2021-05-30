@@ -23,7 +23,7 @@ sections:
         content: >
           I work with a group of friends who would be as happy to walk your dog
           as much as I do
-      - title: What if my business is technical?
+      - title: Where do you walk my dog?
         content: >-
           No product or service is too technical to learn and understand. Part
           of our initial onboarding is an in-depth understanding of your
