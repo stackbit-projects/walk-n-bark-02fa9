@@ -45,7 +45,7 @@ sections:
           treats so we can take care of your cute dog. Also please make sure
           that your dog is not aggresive to other people. Thank you!
         actions: []
-        image: /images/happy doggo.jpg
+        image: /images/square-coriander.jpg
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
