@@ -46,7 +46,7 @@ sections:
       - input_type: tel
         name: Phone Number
         label: Phone Number
-        default_value: lorem-ipsum
+        default_value: Your phone number
         options: []
         is_required: false
         type: form_field
