@@ -59,7 +59,7 @@ sections:
         type: form_field
       - input_type: textarea
         name: What Day? What time?
-        label: Message
+        label: What Day? What time?
         default_value: Your message
     submit_label: Send Message
     align_vert: top
