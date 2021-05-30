@@ -47,7 +47,7 @@ sections:
         actions: []
         image: /images/square-coriander.jpg
         image_alt: Feature 2 illustration
-        media_position: right
+        media_position: left
         media_width: sixty
         align: left
       - title: Our prices
