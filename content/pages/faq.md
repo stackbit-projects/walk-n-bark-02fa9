@@ -20,11 +20,9 @@ sections:
           Yes, we will need some supplies like a leash, some poop bags, and also
           dog treats are optional.
       - title: Do you work alone or with a partner?
-        content: >-
-          Depending on the scope and timeline of your content needs, we can work
-          on a retainer basis, an hour bank, or a per-project basis. Once I
-          understand your needs I will create a tailored proposal with several
-          options to choose from.
+        content: >
+          I work with a group of friends who would be as happy to walk your dog
+          as much as I do
       - title: What if my business is technical?
         content: >-
           No product or service is too technical to learn and understand. Part
