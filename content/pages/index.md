@@ -87,7 +87,6 @@ sections:
         default_value: Your email address
         is_required: true
       - input_type: tel
-        name: lorem-ip
         label: Phone Number
         options: []
         is_required: false
