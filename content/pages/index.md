@@ -83,7 +83,7 @@ sections:
         is_required: true
       - input_type: email
         name: email
-        label: Email
+        label: Email and phone number
         default_value: Your email address
         is_required: true
       - input_type: textarea
