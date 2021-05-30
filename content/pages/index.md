@@ -95,7 +95,7 @@ sections:
         default_value: Your phone number
         name: Phone Number
       - input_type: text
-        label: Dog's Name
+        label: Dogs Name
         options: []
         is_required: false
         type: form_field
