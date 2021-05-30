@@ -93,10 +93,6 @@ sections:
         is_required: false
         type: form_field
         default_value: Your phone number
-      - input_type: textarea
-        name: message
-        label: Message
-        default_value: Your message
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
@@ -104,6 +100,10 @@ sections:
         options: []
         is_required: false
         type: form_field
+      - input_type: textarea
+        name: message
+        label: Message
+        default_value: Your message
       - input_type: checkbox
         name: consent
         label: >-
