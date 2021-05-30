@@ -34,7 +34,7 @@ sections:
           walk (you chose)  so your dog will come back happy from breathing
           fresh air and running around. No job is too big or small!
         actions: []
-        image: /images/GettyImages-486667830.jpg
+        image: /images/happy shober.jpg
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
