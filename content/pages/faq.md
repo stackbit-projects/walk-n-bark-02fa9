@@ -24,11 +24,9 @@ sections:
           I work with a group of friends who would be as happy to walk your dog
           as much as I do
       - title: Where do you walk my dog?
-        content: >-
-          No product or service is too technical to learn and understand. Part
-          of our initial onboarding is an in-depth understanding of your
-          offerings, your target audience and your level of technical writing
-          needed.
+        content: >
+          We will walk the dog around your neighborhood or if you have a certain
+          place that you and your dog like to walk at we can always go there
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
