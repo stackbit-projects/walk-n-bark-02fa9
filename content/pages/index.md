@@ -86,7 +86,7 @@ sections:
         label: Email and phone number
         default_value: Your email address
         is_required: true
-      - input_type: number
+      - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
