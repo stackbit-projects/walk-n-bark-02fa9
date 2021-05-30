@@ -58,7 +58,7 @@ sections:
         is_required: false
         type: form_field
       - input_type: textarea
-        name: message
+        name: What Day? What time?
         label: Message
         default_value: Your message
     submit_label: Send Message
