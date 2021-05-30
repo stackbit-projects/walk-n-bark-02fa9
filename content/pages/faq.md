@@ -15,7 +15,7 @@ sections:
           After you send me the message I will try to answer quickly and text
           you if the time works for us and then at the time you asked us to walk
           your furry friend we will be there to walk him
-      - title: Can you manage our social media?
+      - title: Do I Need to Provide you any Stuff?
         content: >-
           Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
           and any other social media platform you wish to maintain. This
