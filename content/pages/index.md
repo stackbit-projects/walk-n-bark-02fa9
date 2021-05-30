@@ -89,7 +89,6 @@ sections:
       - input_type: tel
         name: lorem-ip
         label: Phone Number
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
