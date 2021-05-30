@@ -53,7 +53,7 @@ sections:
       - input_type: text
         name: Your Dog's Name
         label: Your Dog's Name
-        default_value: lorem-ipsum
+        default_value: Your Dog's Name
         options: []
         is_required: false
         type: form_field
