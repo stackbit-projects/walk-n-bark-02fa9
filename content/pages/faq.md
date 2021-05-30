@@ -19,7 +19,7 @@ sections:
         content: >
           Yes, we will need some supplies like a leash, some poop bags, and also
           dog treats are optional.
-      - title: How do you base your pricing?
+      - title: Do you work alone or with a partner?
         content: >-
           Depending on the scope and timeline of your content needs, we can work
           on a retainer basis, an hour bank, or a per-project basis. Once I
