@@ -3,8 +3,7 @@ title: FAQ
 sections:
   - type: hero_section
     title: Frequently Asked Questions
-    subtitle: >-
-      My answers
+    subtitle: My answers
     align: center
     padding_top: medium
     padding_bottom: small
@@ -36,12 +35,6 @@ sections:
           of our initial onboarding is an in-depth understanding of your
           offerings, your target audience and your level of technical writing
           needed.
-      - title: How fast can we get started?
-        content: >-
-          The onboarding process typically lasts 3-4 days and consists of an
-          intro video call, an interview, a questionnaire and some back and
-          forth communication for technical purposes. After that, we can go as
-          fast as you need.
       - title: Who handles the design?
         content: >-
           You can choose to provide the design yourself, or I can include a
@@ -64,20 +57,20 @@ seo:
   title: Frequently Asked Questions
   description: This is the faq page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Frequently Asked Questions
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the faq page
       keyName: property
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Frequently Asked Questions
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the faq page
 layout: advanced
 ---
