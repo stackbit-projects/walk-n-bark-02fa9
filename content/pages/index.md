@@ -100,7 +100,7 @@ sections:
         is_required: false
         type: form_field
         default_value: Your Dog's Name
-        name: Dog's Name
+        name: Dogs Name
       - input_type: textarea
         name: message
         label: What day? What time?
