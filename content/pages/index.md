@@ -94,7 +94,6 @@ sections:
         default_value: Your phone number
       - input_type: text
         label: Dog's Name
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
