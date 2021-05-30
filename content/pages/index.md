@@ -100,7 +100,7 @@ sections:
         default_value: Your Dog's Name
       - input_type: textarea
         name: message
-        label: Message
+        label: What day? What time?
         default_value: Your message
       - input_type: checkbox
         name: consent
