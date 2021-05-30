@@ -95,7 +95,7 @@ sections:
         default_value: Your phone number
       - input_type: text
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: Dog's Name
         default_value: lorem-ipsum
         options: []
         is_required: false
