@@ -97,6 +97,7 @@ sections:
         options: []
         is_required: false
         type: form_field
+        default_value: Your Dog's Name
       - input_type: textarea
         name: message
         label: Message
