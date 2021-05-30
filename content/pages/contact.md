@@ -42,7 +42,7 @@ sections:
         is_required: false
         type: form_field
       - input_type: text
-        name: Your Dog's Name
+        name: Your Dogs Name
         label: Your Dog's Name
         default_value: Your Dog's Name
         options: []
