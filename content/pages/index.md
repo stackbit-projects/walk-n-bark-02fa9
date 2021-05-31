@@ -140,7 +140,9 @@ seo:
     - name: 'twitter:title'
       value: 'Walk and Bark, Dog Walking Services'
     - name: 'twitter:description'
-      value: The preview of the Personal theme
+      value: >-
+        Need to walk your dog, but don't have time? We are here to help you!
+        Schedule your next walk with us
     - name: 'twitter:image'
       value: /_static/app-assets/images/magical-octopus.png
       relativeUrl: true
