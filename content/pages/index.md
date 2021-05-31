@@ -127,7 +127,9 @@ seo:
       value: 'Walk and Bark, Dog Walking Services'
       keyName: property
     - name: 'og:description'
-      value: The preview of the Personal theme
+      value: >-
+        Need to walk your dog, but don't have time? We are here to help you!
+        Schedule your next walk with us.
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/images/FrontFront.png
