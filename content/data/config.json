@@ -54,5 +54,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://walk-n-bark-02fa9.netlify.app"
+    "domain": "https://walk-n-bark-02fa9.netlify.app",
+    "favicon": "/images/interesting-dolphin.png"
 }
