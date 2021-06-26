@@ -108,7 +108,7 @@ sections:
       - input_type: text
         name: Time
         label: Time
-        default_value: lorem-ipsum
+        default_value: Time
         options: []
         is_required: false
         type: form_field
