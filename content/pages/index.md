@@ -118,6 +118,7 @@ sections:
         options: []
         is_required: false
         type: form_field
+        default_value: Address
     submit_label: Send Message
     align_vert: top
     padding_top: medium
