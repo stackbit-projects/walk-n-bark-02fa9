@@ -115,7 +115,6 @@ sections:
       - input_type: text
         name: How can I find you (your address)
         label: Your address
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
