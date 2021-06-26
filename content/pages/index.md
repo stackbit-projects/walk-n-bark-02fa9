@@ -108,10 +108,6 @@ sections:
         options: []
         is_required: true
         type: form_field
-      - input_type: textarea
-        name: message
-        label: Comments
-        default_value: Your message
       - input_type: text
         name: How can I find you (your address)
         label: How can I find you (Your address)
@@ -119,6 +115,10 @@ sections:
         is_required: false
         type: form_field
         default_value: Address
+      - input_type: textarea
+        name: message
+        label: Comments
+        default_value: Your message
     submit_label: Send Message
     align_vert: top
     padding_top: medium
