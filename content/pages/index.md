@@ -114,7 +114,7 @@ sections:
         type: form_field
       - input_type: text
         name: How can I find you (your address)
-        label: How can I find you (Your address
+        label: How can I find you (Your address)
         options: []
         is_required: false
         type: form_field
