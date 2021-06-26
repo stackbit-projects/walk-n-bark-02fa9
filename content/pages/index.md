@@ -99,7 +99,7 @@ sections:
         label: Comments
         default_value: Your message
       - input_type: text
-        name: lorem-ipsum
+        name: Day
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
