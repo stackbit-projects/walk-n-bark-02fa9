@@ -94,13 +94,6 @@ sections:
         type: form_field
         default_value: Your phone number
         name: Phone Number
-      - input_type: text
-        label: Dogs Name
-        options: []
-        is_required: false
-        type: form_field
-        default_value: Your Dogs Name
-        name: Dogs Name
       - input_type: textarea
         name: message
         label: Comments
