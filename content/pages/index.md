@@ -100,7 +100,7 @@ sections:
         default_value: Your message
       - input_type: text
         name: Day
-        label: lorem-ipsum
+        label: Day
         default_value: lorem-ipsum
         options: []
         is_required: false
