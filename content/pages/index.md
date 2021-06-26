@@ -101,7 +101,7 @@ sections:
       - input_type: text
         name: Day
         label: Day
-        default_value: lorem-ipsum
+        default_value: Day
         options: []
         is_required: false
         type: form_field
