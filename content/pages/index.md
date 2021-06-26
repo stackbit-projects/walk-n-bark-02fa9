@@ -94,10 +94,6 @@ sections:
         type: form_field
         default_value: Your phone number
         name: Phone Number
-      - input_type: textarea
-        name: message
-        label: Comments
-        default_value: Your message
       - input_type: text
         name: Day
         label: Day
@@ -105,6 +101,10 @@ sections:
         options: []
         is_required: true
         type: form_field
+      - input_type: textarea
+        name: message
+        label: Comments
+        default_value: Your message
       - input_type: text
         name: Time
         label: Time
