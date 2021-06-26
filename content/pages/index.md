@@ -113,7 +113,7 @@ sections:
         is_required: true
         type: form_field
       - input_type: text
-        name: lorem-ipsum
+        name: How can I find you (your address)
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
