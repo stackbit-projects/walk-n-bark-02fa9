@@ -103,7 +103,7 @@ sections:
         name: Dogs Name
       - input_type: textarea
         name: message
-        label: What day? What time?
+        label: Comments
         default_value: Your message
     submit_label: Send Message
     align_vert: top
